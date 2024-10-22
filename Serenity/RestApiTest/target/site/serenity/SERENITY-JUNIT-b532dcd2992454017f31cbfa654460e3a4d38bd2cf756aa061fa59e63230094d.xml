@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Demo.TestApi" skipped="0" tests="1" time="0.0" timestamp="2024-08-06 02:48:01"><testcase classname="Demo.TestApi" name="Initialisation"><error message="Expected static method 'io.cucumber.tagexpressions.Expression io.cucumber.tagexpressions.TagExpressionParser.parse(java.lang.String)'" type="java.lang.IncompatibleClassChangeError">Expected static method 'io.cucumber.tagexpressions.Expression io.cucumber.tagexpressions.TagExpressionParser.parse(java.lang.String)'</error><system-err>Expected static method 'io.cucumber.tagexpressions.Expression io.cucumber.tagexpressions.TagExpressionParser.parse(java.lang.String)'&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:93)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:757)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
